@@ -9,7 +9,6 @@ const path=require('path')
 const hbs=require('hbs')
 //console.log(__dirname)
 const app=express()
-
 //define paths for express config
 const pathhtml=path.join(__dirname,'../public')
 //customizing views
